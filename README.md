@@ -1,6 +1,6 @@
-# PeopleSorter
+# AlphaList
 
-A simple C++ console program that collects names and ages from the user, stores them using STL `vector`s, and sorts the data alphabetically by name.
+A simple C++ program that collects names and ages from the user, stores them using STL `vector`s, and sorts the data alphabetically by name.
 
 ---
 
