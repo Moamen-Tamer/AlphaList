@@ -20,4 +20,4 @@ A simple C++ program that collects names and ages from the user, stores them usi
 
 ### 🔧 Compile:
 ```bash
-g++ -o AlphaSort Alpha_sort.cpp
+g++ -o AlphaSort alpha_sort.cpp
